@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://i.ibb.co/SDCvHZn4/Image-fx-5.jpg" alt="ZERO Scanner Logo" width="400">
-</div>
+
 
 # 🔍 **ZERO Scanner v1.0** - Advanced SMB Security Assessment Tool
 
+  <img src="https://i.ibb.co/SDCvHZn4/Image-fx-5.jpg" alt="ZERO Scanner Logo" width="400">
+</div>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
